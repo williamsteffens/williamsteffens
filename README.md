@@ -1,11 +1,11 @@
 # Hi there I'm Will
 
-## About Me
 
 Software Engineer with a strong interest in backend development, scalable systems, and modern web technologies. Experienced in building APIs, full-stack applications, and software solutions across multiple programming languages and frameworks.
 
 Passionate about writing clean, maintainable code and continuously expanding technical expertise through hands-on projects and problem solving.
 
+- Based in Denmark
 - Currently building backend and full-stack projects
 - Expanding expertise in system design and scalable architectures
 - Interested in software engineering, APIs, cloud technologies, and modern development workflows
