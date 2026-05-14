@@ -1,11 +1,15 @@
-# Hi there 👋 I'm Will
+# Hi there 👋 I'm Savvas
 
 ## 🚀 About Me
-Software Engineer passionate about building modern web applications and APIs.
 
-- 🌱 Currently learning: FastAPI, WordPress, modern full-stack development
-- 🔨 Building: Media Catalog REST API
-- 📚 Interested in: Backend systems, APIs, and scalable architecture
+Software Engineer with a strong interest in backend development, scalable systems, and modern web technologies. Experienced in building APIs, full-stack applications, and software solutions across multiple programming languages and frameworks.
+
+Passionate about writing clean, maintainable code and continuously expanding technical expertise through hands-on projects and problem solving.
+
+- 🔨 Currently building backend and full-stack projects
+- 🌱 Expanding expertise in system design and scalable architectures
+- 💡 Interested in software engineering, APIs, cloud technologies, and modern development workflows
+- ⚡ Strong foundation across low-level, backend, and web technologies
 
 ---
 
