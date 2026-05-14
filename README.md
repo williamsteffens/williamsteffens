@@ -1,5 +1,12 @@
-# Hi there I'm Will
+<!-- Hero Banner -->
+<div align="center">
+  <img 
+    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=William%20Steffens&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&animation=fadeIn" 
+  />
+</div>
 
+# Hi there I'm Will
 
 Software Engineer with a strong interest in backend development, scalable systems, and modern web technologies. Experienced in building APIs, full-stack applications, and software solutions across multiple programming languages and frameworks.
 
