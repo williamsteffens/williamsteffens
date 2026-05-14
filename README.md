@@ -11,7 +11,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 - Interested in software engineering, APIs, cloud technologies, and modern development workflows
 - Strong foundation across low-level, backend, and web technologies
 
----
+
 
 ## Tech Stack
 
@@ -55,7 +55,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visualstudiocode)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-333?style=for-the-badge&logo=jetbrains)
 
----
+
 
 ## GitHub Stats
 
@@ -63,7 +63,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
----
+
 
 ## Connect With Me
 
@@ -71,7 +71,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 - LinkedIn: YOUR_LINKEDIN
 - Portfolio: YOUR_PORTFOLIO
 
----
+
 
 
 
