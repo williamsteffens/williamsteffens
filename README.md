@@ -1,19 +1,19 @@
-# Hi there 👋 I'm Savvas
+# Hi there I'm Will
 
-## 🚀 About Me
+## About Me
 
 Software Engineer with a strong interest in backend development, scalable systems, and modern web technologies. Experienced in building APIs, full-stack applications, and software solutions across multiple programming languages and frameworks.
 
 Passionate about writing clean, maintainable code and continuously expanding technical expertise through hands-on projects and problem solving.
 
-- 🔨 Currently building backend and full-stack projects
-- 🌱 Expanding expertise in system design and scalable architectures
-- 💡 Interested in software engineering, APIs, cloud technologies, and modern development workflows
-- ⚡ Strong foundation across low-level, backend, and web technologies
+- Currently building backend and full-stack projects
+- Expanding expertise in system design and scalable architectures
+- Interested in software engineering, APIs, cloud technologies, and modern development workflows
+- Strong foundation across low-level, backend, and web technologies
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
@@ -43,7 +43,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 
 ---
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
@@ -60,17 +60,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 
 ---
 
-## 📌 Featured Projects
-
-### 📚 Media Catalog API
-REST API built with FastAPI for managing media content.
-
-### 🌐 Portfolio Website
-Modern developer portfolio built with a modern frontend stack.
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
@@ -78,16 +68,13 @@ Modern developer portfolio built with a modern frontend stack.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - GitHub: https://github.com/YOUR_USERNAME
 - LinkedIn: YOUR_LINKEDIN
 - Portfolio: YOUR_PORTFOLIO
 
 ---
-
-⭐ Always building and learning.
-
 
 
 
