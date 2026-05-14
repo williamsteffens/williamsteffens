@@ -41,10 +41,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 ![Flask](https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask)
 ![WordPress](https://img.shields.io/badge/-WordPress-333?style=for-the-badge&logo=wordpress)
 
----
-
 ### Tools & Platforms
-
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=for-the-badge&logo=docker)
