@@ -80,15 +80,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 
 
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-
-
 ## Connect With Me
 
-- GitHub: https://github.com/williamsteffens
-- LinkedIn: https://www.linkedin.com/in/williamffsteffens/
+- [GitHub](https://github.com/williamsteffens)
+- [LinkedIn](https://www.linkedin.com/in/williamffsteffens/)
