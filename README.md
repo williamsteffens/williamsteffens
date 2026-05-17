@@ -57,6 +57,7 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs)
 ![Express](https://img.shields.io/badge/-Express-333?style=for-the-badge&logo=express)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=bootstrap)
