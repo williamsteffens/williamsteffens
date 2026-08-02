@@ -10,6 +10,9 @@
 
 <div align="center">
 
+<a href="https://williamsteffens.dev"> <img src="https://img.shields.io/badge/williamsteffens.dev-2C5364?style=for-the-badge&logoColor=white" /> </a> 
+<br/>
+
 <a href="https://github.com/williamsteffens">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -26,6 +29,8 @@
 
 
 # Hi there I'm Will
+
+Be sure to check out my [Portfolio Website](https://williamsteffens.dev)!
 
 Software Engineer with a strong interest in backend development, scalable systems, and modern web technologies. Experienced in building APIs, full-stack applications, and software solutions across multiple programming languages and frameworks.
 
