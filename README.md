@@ -91,5 +91,4 @@ Passionate about writing clean, maintainable code and continuously expanding tec
 
 ## Connect With Me
 
-- [GitHub](https://github.com/williamsteffens)
 - [LinkedIn](https://www.linkedin.com/in/williamffsteffens/)
