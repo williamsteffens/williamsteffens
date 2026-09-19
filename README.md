@@ -10,9 +10,9 @@
 
 # Profile
 
-Portfolio: <https://williamsteffens.dev>
-
 Driven software engineer with a passion for building reliable systems. My experience with various programming languages and paradigms has allowed me to develop scalable solutions, seamless API integrations and maintainable software that solves real-world problems. As a colleague, I am responsible, disciplined and team-oriented. I enjoy tackling complex challenges, learning new technologies and continuously improving the quality and performance of the systems I build.
+
+Portfolio: <https://williamsteffens.dev>
 
 ## Tech Stack
 
