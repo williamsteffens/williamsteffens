@@ -4,7 +4,7 @@
     width="100%"
     style="pointer-events: none;"
     alt="William Steffens Hero Banner"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=William%20Steffens&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&animation=fadeIn" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=William%20Steffens&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Engineer%20%7C%20Full-Stack%20Enthusiast&descAlignY=58&animation=fadeIn" 
   />
 </div>
 
