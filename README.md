@@ -8,41 +8,12 @@
   />
 </div>
 
-<div align="center">
 
-<a href="https://williamsteffens.dev"> <img src="https://img.shields.io/badge/williamsteffens.dev-2C5364?style=for-the-badge&logoColor=white" /> </a> 
-<br/>
+# Profile
 
-<a href="https://github.com/williamsteffens">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+Portfolio: <https://williamsteffens.dev>
 
-<a href="https://www.linkedin.com/in/williamffsteffens/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:william.f.f.steffens@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
-
-# Hi there I'm Will
-
-Be sure to check out my [Portfolio Website](https://williamsteffens.dev)!
-
-Software Engineer with a strong interest in backend development, scalable systems, and modern web technologies. Experienced in building APIs, full-stack applications, and software solutions across multiple programming languages and frameworks.
-
-Passionate about writing clean, maintainable code and continuously expanding technical expertise through hands-on projects and problem solving.
-
-- Based in Denmark
-- Currently building backend and full-stack projects
-- Expanding expertise in system design and scalable architectures
-- Interested in software engineering, APIs, cloud technologies, and modern development workflows
-- Strong foundation across low-level, backend, and web technologies
-
-
+Driven software engineer with a passion for building reliable systems. My experience with various programming languages and paradigms has allowed me to develop scalable solutions, seamless API integrations and maintainable software that solves real-world problems. As a colleague, I am responsible, disciplined and team-oriented. I enjoy tackling complex challenges, learning new technologies and continuously improving the quality and performance of the systems I build.
 
 ## Tech Stack
 
